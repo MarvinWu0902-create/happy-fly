@@ -1,0 +1,19 @@
+@import 'https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&display=swap';
+@import 'https://fonts.googleapis.com/css?family=Material+Icons%7CMaterial+Icons+Outlined%7CMaterial+Icons+Two+Tone%7CMaterial+Icons+Round%7CMaterial+Icons+Sharp';
+
+
+@import '~bootstrap/scss/functions';
+@import './utils/variables';
+@import './utils/base';
+@import './utils/mixin';
+@import './utils/helper';
+
+@import "~bootstrap/scss/variables-dark";//background-color var
+@import "~bootstrap/scss/maps"; //background-color var
+@import './utils/utilities';
+
+@import '~bootstrap/scss/bootstrap';
+// @import '~bootstrap/scss/mixins';
+
+
+
